@@ -1,0 +1,3 @@
+1. Make sure choose proper port number: e.g 9980 or 9990
+2. Run file SocketServer.java
+3. Run file SocketClient.java
